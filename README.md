@@ -75,9 +75,6 @@ The dashboard simulates real-world financial analysis similar to investment rese
 ## 🛠️ Tools & Technologies
 
 * Power BI
-* DAX
-* Data Modeling
-
 ---
 
 ## 📂 Project Structure
@@ -90,7 +87,7 @@ The dashboard simulates real-world financial analysis similar to investment rese
 
 ---
 
-## 📈 Key Insights
+## 📈 Key Insights (Based on the MF shown in png image)
 
 * Higher Sharpe Ratio indicates better risk-adjusted returns
 * Beta > 1 reflects higher volatility compared to the market
